@@ -1,6 +1,6 @@
 {
   "title": "DCAU Explorer",
-  "server": "http://194.233.168.159:4303/api",
+  "server": "https://dnode.cauri.cm/api",
   "alias": "Development",
   "activeDelegates": 101,
   "rewardOffset": 324000,
