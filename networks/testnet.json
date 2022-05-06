@@ -1,0 +1,19 @@
+{
+  "title": "TCAU Explorer",
+  "server": "http://127.0.0.1:4303/api",
+  "alias": "Testnet local",
+  "activeDelegates": 101,
+  "rewardOffset": 324000,
+  "currencies": [],
+  "knownWallets": {},
+  "defaults": {
+    "token": "TCAU",
+    "symbol": "Tꚦ",
+    "currency": null,
+    "priceChartOptions": {
+      "enabled": false,
+      "period": "day",
+      "type": "price"
+    }
+  }
+}

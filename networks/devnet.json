@@ -1,0 +1,18 @@
+{
+  "title": "DCAU Explorer",
+  "server": "http://194.233.168.159:4303/api",
+  "alias": "Development",
+  "activeDelegates": 101,
+  "rewardOffset": 324000,
+  "currencies": [],
+  "defaults": {
+    "token": "DCAU",
+    "symbol": "Dꚦ",
+    "currency": null,
+    "priceChartOptions": {
+      "enabled": false,
+      "period": "day",
+      "type": "price"
+    }
+  }
+}
